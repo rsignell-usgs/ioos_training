@@ -5,8 +5,8 @@
 [PDF of Slides](https://speakerdeck.com/rsignell/a-free-system-for-visualization-and-analysis-of-distributed-model-output-in-your-browser)
 
 ### 1: Set up the IOOS environment
-Install Anaconda python using Miniconda and set up the IOOS environment following the instructions here:
-https://github.com/ioos/conda-recipes/wiki/Setting-up-the-IOOS-Python-environment
+Install Anaconda python using Miniconda and set up the IOOS environment following these [instructions](
+https://github.com/ioos/conda-recipes/wiki/Setting-up-the-IOOS-Python-environment)
 
 ### 2: Download this repo:
 Two options:
