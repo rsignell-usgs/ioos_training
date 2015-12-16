@@ -14,6 +14,6 @@ Two options:
 * Use git: `git clone https://github.com/rsignell-usgs/ioos_training.git`
 * [Download zipfile](https://github.com/rsignell-usgs/ioos_training/archive/master.zip)
 
-## Step 3: try running the notebooks!
+## Step 3: Try running the notebooks!
 If you have any problems, see the [issues page](https://github.com/rsignell-usgs/ioos_training/issues) and click the green "New Issue" button.
 
