@@ -1,9 +1,6 @@
 # IOOS Training
-Set up the IOOS environment and run some notebooks demonstrating:
 
-* Common access to CF convention data
-* Common access to UGRID compliant data 
-* Access to SGRID compliant data
+"A Free System for Visualization and Analysis of Distributed Model Output in Your Browser"
 
 ### 1: Set up the IOOS environment
 Install Anaconda python using Miniconda and set up the IOOS environment following the instructions here:
