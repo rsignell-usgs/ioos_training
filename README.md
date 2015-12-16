@@ -5,15 +5,20 @@ Set up the IOOS environment and run some notebooks demonstrating:
 * Common access to UGRID compliant data 
 * Access to SGRID compliant data
 
-## Step 1: Set up the IOOS environment
+### 1: Set up the IOOS environment
 Install Anaconda python using Miniconda and set up the IOOS environment following the instructions here:
 https://github.com/ioos/conda-recipes/wiki/Setting-up-the-IOOS-Python-environment
 
-## Step 2: Download this repo:
+### 2: Download this repo:
 Two options:
 * Use git: `git clone https://github.com/rsignell-usgs/ioos_training.git`
 * [Download zipfile](https://github.com/rsignell-usgs/ioos_training/archive/master.zip)
 
-## Step 3: Try running the notebooks!
+### 3: Try running the notebooks!
 If you have any problems, see the [issues page](https://github.com/rsignell-usgs/ioos_training/issues) and click the green "New Issue" button.
+
+### 4: Check out TerriaJS
+* TerriaJS running on the IOOS Coastal Ocean Modeling Testbed: http://comt.sura.org/proxy_3001/
+* My TerraJS config file on github: https://raw.githubusercontent.com/rsignell-usgs/ehzrap/master/config/nfwf.json
+* My TerriaJS config on the IOOS testbed instance: http://comt.sura.org/proxy_3001/#https://raw.githubusercontent.com/rsignell-usgs/ehzrap/master/config/nfwf.json
 
