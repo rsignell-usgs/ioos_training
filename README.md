@@ -16,7 +16,7 @@ Two options:
 * [Download zipfile](https://github.com/rsignell-usgs/ioos_training/archive/master.zip)
 
 ### 3: Try running the notebooks!
- I've created a short youtube video (3 minutes long) that shows how to run the notebook:
+ I've created a short youtube video (3 minutes long) that shows how to run the notebooks:
 https://www.youtube.com/watch?v=QvpUHQqCvV0
 
 If you type launcher and the command is not recognized, type conda install launcher to install the launcher and try again.
