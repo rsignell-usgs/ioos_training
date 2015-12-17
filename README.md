@@ -26,7 +26,7 @@ If you type launcher and the command is not recognized, type conda install launc
 * TerriaJS running on the IOOS Coastal Ocean Modeling Testbed: http://comt.sura.org/proxy_3001/
 * My TerriaJS config file on github: https://raw.githubusercontent.com/rsignell-usgs/ehzrap/master/testing/nfwf.json
 * My TerriaJS config on the IOOS testbed instance: http://comt.sura.org/proxy_3001/#https://raw.githubusercontent.com/rsignell-usgs/ehzrap/master/testing/nfwf.json
-* Try searching data.gov, selecting `Formats` as `Esri REST`, `WMS` or `WFS` and add the endpoint using the `Add data` button.
+* Try searching [data.gov](http://catalog.data.gov/dataset), using the menus on the left side of the page to filter by `Formats` using `Esri REST`, `WMS` or `WFS` and add the endpoint using the `Add data` button.
 * Cool introductory [webinar on TerriaJS](https://www.youtube.com/playlist?list=PLwZr38uPmCbTn8BxpRXaipBmycYL21hCI)
 * Cool introductory [webinar on Cesium](https://www.youtube.com/watch?v=cEXneKlofbc) (which TerriaJS uses)
 
